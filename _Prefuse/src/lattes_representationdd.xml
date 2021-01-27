@@ -1,0 +1,1513 @@
+<tree>
+    <declarations>
+        <attributeDecl name="name" type="String"/>
+    </declarations>
+    <branch>
+        <attribute name="name" value="Curriculo Lattes"/>
+        <branch>
+            <attribute name="name" value="Pesquisador"/>
+    <branch>
+        <attribute name="name" value="Identificacao"/>
+        <leaf>
+            <attribute name="name" value="Nome:Marcelo de Paiva Guimarães"/>
+        </leaf>
+        <leaf>
+            <attribute name="name" value="Nome Citacao:GUIMARÃES, M. P.;Guimarães, Marcelo de Paiva"/>
+        </leaf>
+        <leaf>
+            <attribute name="name" value="Sexo:Masculino"/>
+        </leaf>
+    </branch>
+    <branch>
+        <attribute name="name" value="Formacao Academica"/>
+        <branch>
+            <attribute name="name" value="Universidade Federal de São Carlos, UFSCAR, Brasil"/>
+            <leaf>
+                <attribute name="name" value="Titulacao: Pós-Doutorado"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value=" Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Sistemas Distribuídos. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Realidade Virtual."/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Inicio: 2009"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Conclusao: 2010"/>
+            </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Universidade de São Paulo, USP, Brasil"/>
+            <leaf>
+                <attribute name="name" value="Titulacao: Doutorado em Engenharia Elétrica"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value=" Título: Um ambiente para o desenvolvimento de aplicações de Realidade Virtual baseadas em aglomerados gráficos, Ano de obtenção: 2004. Orientador: Marcelo Knorich Zuffo. Palavras-chave: Aglomerados Gráficos; Sistemas Distribuídos; Realidade Virtual. Grande área: Engenharias / Área: Engenharia Elétrica. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Realidade Virtual. Setores de atividade: Educação Superior."/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Inicio: 2000"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Conclusao: 2004"/>
+            </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Universidade Federal de São Carlos, UFSCAR, Brasil"/>
+            <leaf>
+                <attribute name="name" value="Titulacao: Mestrado em Ciência da Computação"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value=" Título: Projeto e Implementação de Suporte para Aplicações Cooperativas na Plataforma JAMP,Ano de Obtenção: 2000. Orientador: Dr Luis Carlos Trevelin. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Palavras-chave: Trabalho Cooperativo; Sistemas Distribuídos; Groupware; Framework; CSCW. Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Software Básico. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Arquitetura de Sistemas de Computação. Setores de atividade: Educação."/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Inicio: 1998"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Conclusao: 2000"/>
+            </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="(Carga Horária: 360h)"/>
+            <leaf>
+                <attribute name="name" value="Titulacao: Especialização em Sistemas de informação"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value=" Instituto Municipal de Ensino Superior de Assis. Título: Sistemas de Informação."/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Inicio: 1995"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Conclusao: 1996"/>
+            </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Instituto Municipal de Ensino Superior de Assis"/>
+            <leaf>
+                <attribute name="name" value="Titulacao: Graduação em Tecnologia Em Processamento de Dados"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value=" "/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Inicio: 1992"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Conclusao: 1994"/>
+            </leaf>
+        </branch>
+    </branch>
+    <branch>
+        <attribute name="name" value="Producao Científica"/>
+        <branch>
+            <attribute name="name" value="Artigos em Periodicos"/>
+        <branch>
+            <attribute name="name" value="Tendências e Técnicas em Realidade Virtual e Aumentada"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Desenvolvimento de Interfaces Naturais de Interação usando o Hardware Kinect"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: GNECCO, B. B. ; DIAS, D. R. C. ; GUSTAVO,J.B. ; GUIMARÃES, M. P."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Tendências e Técnicas em Realidade Virtual e Aumentada"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 37-62"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Tendências e Técnicas em Realidade Virtual e Aumentada"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Realidade Aumentada para aplicações Web e Mobile"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: GUIMARÃES, M. P. ; GNECCO, B. B. ; DIAS, D. R. C."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Tendências e Técnicas em Realidade Virtual e Aumentada"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 159-176"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Journal of Health Informatics"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Análise de sentimentos sobre temas de saúde em mídia social"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: ARAUJO, G. D. ; SOUSA, F. S. ; TEIXEIRA, F. ; MANCINI, F. ; DOMENICO, E. B. L. ; GUIMARÃES, M. P. ; PISA, I. T."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Journal of Health Informatics"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 95-99"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Tendências e Técnicas em Realidade Virtual e Aumentada"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Desenvolvimento de Interface Naturais de Interação usando o hardware Kinect"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: GNECCO, B. B. ; BRASIL, G. J. C. ; DIAS, D. R. C. ; GUIMARÃES, M. P."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Tendências e Técnicas em Realidade Virtual e Aumentada"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 1-264"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Enterprise Information Systems (Print)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: 3D Semantic Models for Dental Education"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: DIAS, D. R. C. ; Brega,J.R.F ; GUIMARÃES, M. P. ; GNECCO, B. B. ; LAURIS,J.R.P."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Enterprise Information Systems (Print)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1007/978-3-642-24352-3"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 89-96"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Enterprise Information Systems (Print)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Molecular Visualization with Supports of Interaction, Immersion and Collaboration among Geographically-Separated Research Groups"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: Corrêa,M.F. ; GUIMARÃES, M. P. ; TREVELIN, L. C."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Enterprise Information Systems (Print)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1007/978-3-642-24352-3"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 128-135"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Computer Applications in Engineering Education"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Teaching astronomy and celestial mechanics through virtual reality"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: GUIMARÃES, M. P. ; GNECCO, B. B."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Computer Applications in Engineering Education"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1002/cae.20174"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 196-205"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Impresso)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Lego Cooperativo: construindo modelos LEGO de forma colaborativa em um ambiente virtual imersivo, interativo sob o paradigma educacional construtivista. Hífen (PUCRS"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: GUIMARÃES, M. P. ; OLIVEIRA, O. ; MOTA, T."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Impresso)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 1-8"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        </branch>
+    <branch>
+        <attribute name="name" value="Artigos em Revistas"/>
+    <branch>
+        <attribute name="name" value="IEEE Multidisciplinary Engineering Education Magazine"/>
+            <leaf>
+            <attribute name="name" value="Titulo: Teacher-learning process based on an immersive and interactive environment"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Autores: DIAS, D. R. C. ; Corrêa,M.F. ; Brega,J.R.F ; TREVELIN, L. C. ; GUIMARÃES, M. P."/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Volume: "/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="DOI: "/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Paginas: "/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Numero "/>
+            </leaf>
+    </branch>
+    </branch>
+    <branch>
+        <attribute name="name" value="Textos Em Jornal"/>
+        <branch>
+                <attribute name="name" value="Angiologia Clínica - Cirurgia Vascular Endovascular e Imagem Vascular, São Paulo, "/>
+                <leaf>
+                    <attribute name="name" value="Titulo: A Realidade Virtual e Realidade Aumentada na Medicina"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Autores: GNECCO, B. B. ; GUIMARÃES, M. P."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Pagina: 14-16"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: 30"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Data: 01 abr. 2010"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Ano: 2010"/>
+                </leaf>
+        </branch>
+    </branch>
+    </branch>
+        </branch>
+        <branch>
+            <attribute name="name" value="Pesquisador"/>
+    <branch>
+        <attribute name="name" value="Identificacao"/>
+        <leaf>
+            <attribute name="name" value="Nome:Beatriz Amaral de Castilho"/>
+        </leaf>
+        <leaf>
+            <attribute name="name" value="Nome Citacao:Castilho, B.A.; Castilho-Valavicius, B.*; Valavicius, B.*"/>
+        </leaf>
+        <leaf>
+            <attribute name="name" value="Sexo:Feminino"/>
+        </leaf>
+    </branch>
+    <branch>
+        <attribute name="name" value="Formacao Academica"/>
+        <branch>
+            <attribute name="name" value="Universidade de São Paulo, USP, Brasil"/>
+            <leaf>
+                <attribute name="name" value="Titulacao: Livre-docência"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value=" Título: , Ano de obtenção: 1988."/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Inicio: 1988"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Conclusao: "/>
+            </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Northwestern University Medical School"/>
+            <leaf>
+                <attribute name="name" value="Titulacao: Pós-Doutorado"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value=" Grande área: Ciências Biológicas / Área: Bioquímica / Subárea: Biologia Molecular."/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Inicio: 1984"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Conclusao: 1986"/>
+            </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="University of Chicago, UChicago, Estados Unidos"/>
+            <leaf>
+                <attribute name="name" value="Titulacao: Doutorado em Genética"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value=" Título: Transposition studies with the bacteriophage Mu, Ano de obtenção: 1984. Orientador: Dr. Malcolm Casadaban. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: Bacteriofago Mu; Lac Fusions; Plasmidios; Transposicao. Grande área: Ciências Biológicas / Área: Genética. Grande Área: Ciências Biológicas / Área: Genética / Subárea: Genética Molecular e de Microorganismos. Grande Área: Ciências Biológicas / Área: Bioquímica / Subárea: Biologia Molecular."/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Inicio: 1980"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Conclusao: 1984"/>
+            </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Universidade de São Paulo, USP, Brasil"/>
+            <leaf>
+                <attribute name="name" value="Titulacao: Graduação em Ciencias Biológicas"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value=" "/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Inicio: 1975"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Conclusao: 1979"/>
+            </leaf>
+        </branch>
+    </branch>
+    <branch>
+        <attribute name="name" value="Producao Científica"/>
+        <branch>
+            <attribute name="name" value="Artigos em Periodicos"/>
+        <branch>
+            <attribute name="name" value="Nucleic Acids Research"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: The NIP7 protein is required for accurate pre-rRNA processing in human cells"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: Morello, L. G. ; HESLING, C. ; Coltri, P. P. ; CASTILHO, B. A. ; Rimokh, R. ; ZANCHIN, N. I. T."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Nucleic Acids Research"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1093/nar/gkq758"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 648-665"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Plos One"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Protein Synthesis Attenuation by Phosphorylation of eIF2 Is Required for the Differentiation of Trypanosoma cruzi into Infective Forms"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: Tonelli, Renata R. ; Augusto, Leonardo da Silva ; Castilho, Beatriz A. ; Schenkman, Sergio"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Plos One"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1371/journal.pone.0027904"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: e27904"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="The Journal of Biological Chemistry (Print)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Evidence That Eukaryotic Translation Elongation Factor 1A (eEF1A) Binds the Gcn2 Protein C Terminus and Inhibits Gcn2 Activity"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: Visweswaraiah, J. ; Lageix, S. ; CASTILHO, B. A. ; Izotova, L. ; Kinzy, T. G. ; Hinnebusch, A. G. ; SATTLEGGER, E."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: The Journal of Biological Chemistry (Print)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1074/jbc.M111.248898"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 36568-36579"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="The Journal of Biological Chemistry (Print)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Gcn1 and Actin Binding to Yih1: IMPLICATIONS FOR ACTIVATION OF THE eIF2 KINASE GCN2"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: SATTLEGGER, E. ; Barbosa, J. A. R. G. ; MORAES, M. C. S. ; Martins, R. M. ; Hinnebusch, A. G. ; CASTILHO, B. A."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: The Journal of Biological Chemistry (Print)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1074/jbc.M110.171587"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 10341-10355"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Proceedings of the National Academy of Sciences of the United States of America"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Prion protein interaction with stress-inducible protein 1 enhances neuronal protein synthesis via mTOR"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: Roffe, M. ; BERALDO, F. H. ; Bester, R. ; Nunziante, M. ; Bach, C. ; MANCINI, G. ; Gilch, S. ; Vorberg, I. ; CASTILHO, B. A. ; MARTINS, V. R. ; HAJJ, G. N. M."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Proceedings of the National Academy of Sciences of the United States of America"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1073/pnas.1000784107"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 13147-13152"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="BMC Molecular Biology"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Multiple RNAs from the mouse carboxypeptidase M locus: functional RNAs or transcription noise?"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: Guimaraes, Alessander O. ; Motta, Fabiana L. ; Alves, Viviane S. ; Castilho, Beatriz A. ; Pesquero, Joao B."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: BMC Molecular Biology"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1186/1471-2199-10-7"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 7"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="The Journal of Comparative Neurology"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Distribution of the protein IMPACT, an inhibitor of GCN2, in the mouse, rat, and marmoset brain"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: BITTENCOURT, S. ; PEREIRA, C. M. ; AVEDISSIAN, M. ; DELAMANO, A. ; MELLO, L. E. A. M. ; Castilho, B.A."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: The Journal of Comparative Neurology"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1002/cne.2165"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 1811-1830"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Biochemical and Biophysical Research Communications,"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: GCN2 activation and eIF2? phosphorylation in the maturation of mouse oocytes"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: ALVES, V ; MOTTA, F ; ROFFE, M ; DELAMANO, A ; PESQUERO, J ; Castilho, B.A."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Biochemical and Biophysical Research Communications,"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1016/j.bbrc.2008.10.161"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 41-44"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Biochimie (Paris),"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Characterization of the Trypanosoma cruzi ortholog of the SBDS protein reveals an intrinsically disordered extended C-terminal region showing RNA-interacting activity"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: DEOLIVEIRA, J ; CASTILHO, B ; SFORCA, M ; KRIEGER, M ; ZERI, A ; GUIMARAES, B ; ZANCHIN, N"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Biochimie (Paris),"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1016/j.biochi.2008.12.001"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 475-483"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="The Journal of Biological Chemistry"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Salicylates Trigger Protein Synthesis Inhibition in a Protein Kinase R-like Endoplasmic Reticulum Kinase-dependent Manner"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: SILVA, A. M. ; WANG, D. ; KOMAR, A. A. ; Castilho, B.A. ; WILLIAMS, B. R. G."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: The Journal of Biological Chemistry"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1074/jbc.M609996200"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 10164-10171"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Eukaryotic Cell"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Novel Membrane-Bound eIF2{alpha} Kinase in the Flagellar Pocket of Trypanosoma brucei."/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: MORAES, M. C. S. ; Jesus, T. C. L. ; HASHIMOTO, Nilce N ; DEY, M. ; SCHWARTZ, K. J. ; ALVES, V. S. ; AVILA, C. C. ; BANGS, J. D. ; DEVER, T. E. ; SCHENKMAN, S. ; Castilho, B.A."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Eukaryotic Cell"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1128/EC.00249-07"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 1979-1991"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Experimental Cell Research"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: The Shwachman-Bodian-Diamond syndrome associated protein interacts with HsNip7 and its down-regulation affects gene expression at the transcriptional and translational levels"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: HESLING, C. ; OLIVEIRA, C. C. ; Castilho, B.A. ; ZANCHIN, N. I. T."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Experimental Cell Research"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1016/j.yexcr.2007.06.024"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 4180-4195"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Biochemical Journal (London)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Phosphorylation of the alpha subunit of translation initiation factor 2 by PKR mediates protein synthesis inhibition in the mouse brain during status epilepticus"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: CARNEVALLI, Larissa S ; PEREIRA, C. M. ; JAQUETA, C. B. ; ALVES, Viviane de Souza ; Vattem, K. M. ; WEK, R. C. ; MELLO, L. E. A. M. ; Castilho, B.A."/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Biochemical Journal (London)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1042/bj20051643"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 187-194"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        </branch>
+    </branch>
+        </branch>
+        <branch>
+            <attribute name="name" value="Pesquisador"/>
+    <branch>
+        <attribute name="name" value="Identificacao"/>
+        <leaf>
+            <attribute name="name" value="Nome:Ivan Torres Pisa"/>
+        </leaf>
+        <leaf>
+            <attribute name="name" value="Nome Citacao:PISA, Ivan Torres;PISA, I. T.;Pisa, I. T"/>
+        </leaf>
+        <leaf>
+            <attribute name="name" value="Sexo:Masculino"/>
+        </leaf>
+    </branch>
+    <branch>
+        <attribute name="name" value="Formacao Academica"/>
+        <branch>
+            <attribute name="name" value="Universidade de São Paulo, USP, Brasil"/>
+            <leaf>
+                <attribute name="name" value="Titulacao: Pós-Doutorado"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value=" Bolsista do(a): Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP, Brasil. Grande área: Ciências da Saúde / Área: Medicina / Subárea: Sistema de Apoio à Decisão Médica. Grande Área: Ciências da Saúde / Área: Medicina / Subárea: Clínica Médica. Grande Área: Ciências Exatas e da Terra / Área: Matemática / Subárea: Redes Neurais."/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Inicio: 2004"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Conclusao: 2005"/>
+            </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Universidade de São Paulo, USP, Brasil"/>
+            <leaf>
+                <attribute name="name" value="Titulacao: Doutorado em Física Aplicada à Medicina e Biologia"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value=" Título: MIDster - uma arquitetura de compartilhamento de imagens médicas baseada em modelos peer-to-peer (P2P) e serviços web, Ano de obtenção: 2003. Orientador: Evandro Eduardo Seron Ruiz. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Sistema distribuído; Imagem médica; DICOM; Informática Médica; Serviços web. Grande área: Ciências Exatas e da Terra / Área: Física / Subárea: Física Médica / Especialidade: Imagem Médica. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Arquitetura Distribuída. Setores de atividade: Formação Permanente e Outras Atividades de Ensino, Inclusive Educação À Distância e Educação Especial; Desenvolvimento de Produtos Tecnológicos Voltados Para A Saúde Humana."/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Inicio: 1999"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Conclusao: 2003"/>
+            </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Universidade de São Paulo, USP, Brasil"/>
+            <leaf>
+                <attribute name="name" value="Titulacao: Mestrado em Física Aplicada à Medicina e Biologia"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value=" Título: Rastreamento do Movimento da Parede do Ventrículo Esquerdo usando Modelo de Contorno Ativo em Imagens Ecocardiográficas com Color Kinesis,Ano de Obtenção: 1999. Orientador: Evandro Eduardo Seron Ruiz. Bolsista do(a): Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP, Brasil. Palavras-chave: Color Kinesis; Ventrículo Esquerdo; Ecocardiografia; Modelo de Contorno Ativo; Snakes. Grande área: Ciências Exatas e da Terra / Área: Matemática / Subárea: Matemática Aplicada / Especialidade: Matemática Discreta e Combinatória. Grande Área: Ciências Exatas e da Terra / Área: Física / Subárea: Física Médica / Especialidade: Imagem Médica. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Matemática da Computação / Especialidade: Modelagem Matemática. Setores de atividade: Desenvolvimento de Produtos Tecnológicos Voltados Para A Saúde Humana; Educação Superior."/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Inicio: 1997"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Conclusao: 1999"/>
+            </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Universidade Estadual Paulista Júlio de Mesquita Filho, UNESP, Brasil"/>
+            <leaf>
+                <attribute name="name" value="Titulacao: Graduação em Bacharelado Em Matemática"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value=" Título: Iniciação Científica: Um programa computacional parar o cálculo de fecho integral de ideais de germes de funções analíticas. Orientador: Marcelo José Saia. Bolsista do(a): Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP, Brasil."/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Inicio: 1991"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Conclusao: 1996"/>
+            </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Escola Técnica Prof Everardo Passos"/>
+            <leaf>
+                <attribute name="name" value="Titulacao: Curso técnico/profissionalizante em Informática Industrial"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value=" "/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Inicio: 1986"/>
+            </leaf>
+            <leaf>
+                <attribute name="name" value="Ano Conclusao: 1989"/>
+            </leaf>
+        </branch>
+    </branch>
+    <branch>
+        <attribute name="name" value="Producao Científica"/>
+        <branch>
+            <attribute name="name" value="Artigos em Periodicos"/>
+        <branch>
+            <attribute name="name" value="International Journal of Medical Informatics"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Results of a randomized controlled trial to assess the effects of a mobile SMS-based intervention on treatment adherence in HIV/AIDS-infected Brazilian women and impressions and satisfaction with respect to incoming messages"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: da Costa, Thiago Martini ; Barbosa, Bárbara Jaqueline Peres ; e Costa, Durval Alex Gomes ; SIGULEM, Daniel ; de Fátima Marin, Heimar ; Filho, Adauto Castelo ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: International Journal of Medical Informatics"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1016/j.ijmedinf.2011.10.002"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 01-13"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Brazilian journal of otorhinolaryngology (Online)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Análise Computadorizada do Ronco na Síndrome da Apnéia do Sono"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: SHIOMI, Fábio ; PISA, Ivan Torres ; CAMPOS, Carlos José Reis de"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Brazilian journal of otorhinolaryngology (Online)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 488-498"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Brazilian journal of otorhinolaryngology (Online)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Computerized analysis of snoring in Sleep Apnea Syndrome"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: SHIOMI, Fábio ; PISA, Ivan Torres ; CAMPOS, Carlos José Reis de"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Brazilian journal of otorhinolaryngology (Online)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 488-498"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Journal of Biomedical Informatics"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Use of Medical Subject Headings (MeSH) in Portuguese for categorizing web-based healthcare content"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: MANCINI, Felipe ; SOUSA, Fernando Sequeira ; Teixeira, Fábio Oliveira ; Falcão, Alex Esteves Jacoud ; HUMMEL, Anderson Diniz ; da Costa, Thiago Martini ; Calado, Pável Pereira ; de Araújo, Luciano Vieira ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Journal of Biomedical Informatics"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1016/j.jbi.2010.12.002"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 299-309"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Journal of Health Informatics"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Similarity-based scoring method for classification of Health Informatics content"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: TEIXEIRA, Fabio Oliveira ; FALCÃO, Alex Esteves Jaccoud ; SOUSA, Fernando Sequeira ; HUMMEL, Anderson Diniz ; COSTA, Thiago Martini da ; MANCINI, Felipe ; de Araújo, Luciano Vieira ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Journal of Health Informatics"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 35-42"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Transplantation Proceedings"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Application of the Intelligent Techniques in Transplantation Databases: A Review of Articles Published in 2009 and 2010"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: SOUSA, Fernando Sequeira ; HUMMEL, Anderson Diniz ; MACIEL, Rafael Fabio ; COHRS, Frederico Molina ; FALCÃO, Alex Esteves Jaccoud ; TEIXEIRA, Fabio Oliveira ; BAPTISTA, Roberto Silva ; MANCINI, Felipe ; COSTA, Thiago Martini da ; ALVES, Domingos ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Transplantation Proceedings"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1016/j.transproceed.2011.02.028"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 1340-1342"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Transplantation Proceedings"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Artificial Intelligence Techniques: Predicting Necessity for Biopsy in Renal Transplant Recipients Suspected of Acute Cellular Rejection or Nephrotoxicity"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: HUMMEL, Anderson Diniz ; MACIEL, Rafael Fabio ; SOUSA, Fernando Sequeira ; FALCÃO, Alex Esteves Jaccoud ; TEIXEIRA, Fabio Oliveira ; BAPTISTA, Roberto Silva ; MANCINI, Felipe ; COSTA, Thiago Martini da ; ALVES, Domingos ; RODRIGUES, Renato Glauco de Souza ; MIRANDA, Rafael ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Transplantation Proceedings"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1016/j.transproceed.2011.02.029"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 1343-1344"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Journal of Health Informatics"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Experiências internacionais da aplicação de sistemas de apoio à decisão clínica em gastroenterologia"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: TENORIO, Josceli Maria ; HUMMEL, Anderson Diniz ; PISA, Ivan Torres ; MARIN, Heimar de Fátima"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Journal of Health Informatics"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 27-31"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Journal of Health Informatics"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Desenvolvimento e avaliação de um classificador de padrões para análise do crescimento facial pelo método de maturação vertebral cervical"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: BAPTISTA, Roberto Silva ; HUMMEL, Anderson Diniz ; FINKELSZTAIN, Renata Abramovicz ; ORTOLANI, Cristina Lucia Feijó ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Journal of Health Informatics"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 64-68"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Methods of Information in Medicine"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Classification of Postural Profiles among Mouth-breathing Children by Learning Vector Quantization"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: MANCINI, Felipe ; SOUSA, Fernando Sequeira ; HUMMEL, Anderson Diniz ; FALCÃO, Alex Esteves Jaccoud ; Yi, L. C. ; ORTOLANI, Cristina Lucia Feijó ; SIGULEM, Daniel ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Methods of Information in Medicine"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.3414/ME09-01-0039"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 349-357"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Journal Of Health Informatics"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Análise da percepção de usuários sobre a qualidade de websites em saúde comparada com os critérios de adequação da HON"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: TEIXEIRA, Fabio Oliveira ; FALCÃO, Alex Esteves Jaccoud ; MANCINI, Felipe ; SOUSA, Fernando Sequeira ; HUMMEL, Anderson Diniz ; AURELIANO, Kellen Cristine ; COSTA, Thiago Martini da ; SIGULEM, Daniel ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Journal Of Health Informatics"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 103-108"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Revista de Informática Teórica e Aplicada (online)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Desenvolvimento e Avaliação de um Protocolo Eletrônico para Atendimento e Monitoramento do Paciente com Doença Celíaca"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: TENORIO, Josceli Maria ; COHRS, Frederico Molina ; SDEPANIAN, Vera Lucia ; PISA, Ivan Torres ; MARIN, Heimar de Fátima"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Revista de Informática Teórica e Aplicada (online)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 210-220"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="International Journal of Medical Informatics"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Artificial intelligence techniques applied to the development of a decision support system for diagnosing celiac disease"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: Tenório, Josceli Maria ; HUMMEL, Anderson Diniz ; COHRS, Frederico Molina ; SDEPANIAN, Vera Lucia ; PISA, Ivan Torres ; de Fátima Marin, Heimar"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: International Journal of Medical Informatics"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1016/j.ijmedinf.2011.08.001"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 793-802"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Journal of Health Informatics"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Sistemas de apoio à decisão baseados em diretrizes interpretadas por computador: um breve histórico e outros tópicos"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: LICHTENSTEIN, Flavio ; TAVARES, Agostinho ; PISA, Ivan Torres ; SIGULEM, Daniel"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Journal of Health Informatics"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 164-169"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Impresso)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Educação a Distância (EaD) em Física Médica. Interface (Botucatu"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: Neves-Junior, Wellington Furtado Pimenta ; Haddad, Cecília Maria Kalil ; SOUSA, Fernando Sequeira ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Impresso)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1590/S1414-32832011000400018"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 1199-1206"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Transplantation Proceedings"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Application of Artificial Neural Networks in Renal Transplantation: Classification of Nephrotoxicity and Acute Cellular Rejection Episodes"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: Hummel, A.D. ; Maciel, R.F. ; Rodrigues, R.G.S. ; Pisa, I. T"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Transplantation Proceedings"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1016/j.transproceed.2010.01.051"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 471-472"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Boletim Epidemiológico Paulista (Online)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Informática para monitorar hospitais de ensino. BEPA"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: COSTA, Thiago Martini da ; MAGALHÃES, Adriana C. ; GOUVEIA, Rita de Cássia de Abreu ; ZAVITOSKI, Leandro ; PISA, Ivan Torres ; BITTAR, Olímpio José Nogueira Viana"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Boletim Epidemiológico Paulista (Online)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 11-20"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Radiologia Brasileira (Impresso)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Avaliação de um sistema de segunda opinião em radiologia. RB"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: Neira, Ricardo Alfredo Quintano ; Puchnick, Andrea ; COHRS, Frederico Molina ; LOPES, Paulo Roberto de Lima ; LEDERMAN, Henrique Manoel ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Radiologia Brasileira (Impresso)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1590/S0100-39842010000300010"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 179-183"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Ciência e Saúde Coletiva (Impresso)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: BabyCare: apoio à decisão na atenção primária materno-infantil com computadores de mão"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: COSTA, Carmen Lúcia de Bartolo ; PINTO, Vladimir Camelo ; CARDOSO, Orlando Lima ; BABA, Marcelo Massakazu ; PISA, Ivan Torres ; PALMA, Domingos ; SIGULEM, Daniel"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Ciência e Saúde Coletiva (Impresso)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1590/S1413-81232010000800024"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 3191-3198"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Journal of Health Informatics"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Aplicação de Técnicas de Inteligência Artificial em Transplantes Renais: Classificadores Automáticos para Nefrotoxicidade e Rejeição Celular Aguda"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: MACIEL, Rafael Fabio ; HUMMEL, Anderson Diniz ; COHRS, Frederico Molina ; MANCINI, Felipe ; FALCÃO, Alex Esteves Jaccoud ; TEIXEIRA, Fabio Oliveira ; COSTA, Thiago Martini da ; SOUSA, Fernando Sequeira ; ALVES, Domingos ; MIRANDA, Rafael ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Journal of Health Informatics"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 72-77"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Revista Brasileira de Oftalmologia (Impresso)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Avaliação de um programa para computador de mão no auxílio ao ensino de oftalmologia para estudantes de medicina"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: PINTO, Vladimir Camelo ; COSTA, Thiago Martini da ; GROTTONE, Gustavo Teixeira ; SCHOR, Paulo ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Revista Brasileira de Oftalmologia (Impresso)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 352-360"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Radiologia Brasileira (Impresso)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Comparação dos tempos de geração e digitação de laudos radiológicos entre um sistema eletrônico baseado em voz sobre IP (VoIP) e um sistema tradicional baseado em papel. RB"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: FERREIRA, Dácio Miranda ; COHRS, Frederico Molina ; LEDERMAN, Henrique Manoel ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Radiologia Brasileira (Impresso)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1590/S0100-39842010000100005"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 7-12"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="ConScientiae Saúde (Impresso)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Avaliação dos serviços descentralizados de reabilitação física direcionados aos portadores de deficiência no Estado de Alagoas"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: ANJOS, Clarissa Cotrim dos ; GOMES, Cid André Fidelis de Paula ; MEDEIROS, Tony Carlos Silva de ; SOUSA, Fernando Sequeira ; COHRS, Frederico Molina ; ZIMPEL, Sandra Adriana ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: ConScientiae Saúde (Impresso)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 448-455"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="International Journal of Medical Informatics"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: The impact of short message service text messages sent as appointment reminders to patientsâ cell phones at outpatient clinics in SÃ o Paulo, Brazil"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: da Costa, Thiago Martini ; SalomÃ o, Paulo LÃ sias ; MARTHA, Amilton Souza ; PISA, Ivan Torres ; SIGULEM, Daniel"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: International Journal of Medical Informatics"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1016/j.ijmedinf.2009.09.001"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 65-70"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Journal of Telemedicine and Telecare"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: A comparative study of teledermatoscopy and face-to-face examination of pigmented skin lesions"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: Ishioka, P. ; Tenorio, J. M ; Lopes, P. R. ; Yamada, S. ; Michalany, N. S ; Amaral, M. B ; Pisa, I. T ; Hirata, S. H ; Almeida, F. A"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Journal of Telemedicine and Telecare"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1258/jtt.2009.081107"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 221-225"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Revista de Informática Teórica e Aplicada"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Uso da ferramenta PreText para mineração de textos extraídos do NCBI para estudo epistemológico da Informática em Saúde"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: COLEPÍCOLO, Eliane ; MATSUBARA, Edson Takashi ; FALCÃO, Alex Esteves Jaccoud ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Revista de Informática Teórica e Aplicada"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 9-24"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Jornal Brasileiro de Transplantes"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Aplicação de técnicas computacionais em bases de dados de transplante: revisão de artigos publicados no biênio 2007-2008. JBT"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: HUMMEL, Anderson Diniz ; MACIEL, Rafael Fabio ; FALCÃO, Alex Esteves Jaccoud ; TEIXEIRA, Fabio Oliveira ; MANCINI, Felipe ; COSTA, Thiago Martini da ; COHRS, Frederico Molina ; SOUSA, Fernando Sequeira ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Jornal Brasileiro de Transplantes"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 1045-1048"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Journal of Health Informatics"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: InDeCS: Método Automatizado de Classificação de Páginas Web de Saúde Usando Mineração de Texto e Descritores em Ciências da Saúde (DeCS)"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: FALCÃO, Alex Esteves Jaccoud ; MANCINI, Felipe ; COSTA, Thiago Martini da ; HUMMEL, Anderson Diniz ; TEIXEIRA, Fabio Oliveira ; SIGULEM, Daniel ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Journal of Health Informatics"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 18-24"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Revista de Informática Teórica e Aplicada"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Aplicação de Redes Neurais Artificiais no Diagnóstico e Evolução Clínica da Postura em Crianças Respiradoras Bucais e Nasais"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: MANCINI, Felipe ; LIU, Chiao Yi ; PIGNATARI, Shirley Shizue Nagata ; SILVA FILHO, Antonio Carlos Roque da ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Revista de Informática Teórica e Aplicada"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 91-107"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Revista do Instituto de Ciências da Saúde (UNIP)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Construção e avaliação de um programa educacional multimídia para o estudo da análise cefalométrica na Odontologia"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: FERREIRA JUNIOR, Cléber de Jesus. ; SILVEIRA, Luís Gustavo Giesbrecht da ; ABRANCHES, Denise Caluta ; MOURA, Luiz Antonio Ribeiro de ; RAMOS, Monica Parente ; ORTOLANI, Cristina Lucia Feijó ; PISA, Ivan Torres"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Revista do Instituto de Ciências da Saúde (UNIP)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 179-185"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Impresso)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Postural qualitative analysis in mouth breath children. Fisioterapia em Movimento (PUCPR"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: MANCINI, Felipe ; LIU, Chiao Yi ; PISA, Ivan Torres ; ALVES, Domingos ; PIGNATARI, Shirley Shizue Nagata"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Impresso)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 119-126"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Studies in Health Technology and Informatics"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: IntegraEPI: a Grid-based Epidemic Surveillance System"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: SILVA, Fabrício Alves Barbosa da ; GAGLIARDI, Henrique Fabricio ; GALLO, Eduardo ; MADOPE, Maria Antónia ; CAVICCHIOLLI NETO, Virgílio ; PISA, Ivan Torres ; ALVES, Domingos"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Studies in Health Technology and Informatics"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 197-206"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Arquivos Brasileiros de Oftalmologia (Impresso)"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Desenvolvimento de software oftalmológico para computação móvel"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: GROTTONE, Gustavo Teixeira ; PISA, Ivan Torres ; GROTTONE, João Carlos ; DEBS, Fernando ; SCHOR, Paulo"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Arquivos Brasileiros de Oftalmologia (Impresso)"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: http://dx.doi.org/10.1590/S0004-27492006000400006"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 487-490"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Revista Gaúcha de Odontologia"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: Avaliação do uso da informática pelo cirurgião dentista e acadêmicos em odontologia"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: SILVEIRA, Luís Gustavo Giesbrecht da ; DOKI, Roberto ; LOPES, Paulo Roberto de Lima ; SIGULEM, Daniel ; PISA, Ivan Torres ; SCHOR, Paulo"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Revista Gaúcha de Odontologia"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 119-122"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        <branch>
+            <attribute name="name" value="Lecture Notes in Computer Science, Berlin"/>
+                <leaf>
+                   <attribute name="name" value="Titulo: MicroCASim: An Automata Network Simulator Applied to the Competition Between Microparasites and Host Immune Response"/>
+                </leaf>
+                <leaf>
+                <attribute name="name" value="Autores: FURLAN, Luciana Benzoni ; GAGLIARDI, Henrique Fabricio ; SILVA, Fabrício Alves Barbosa da ; PISA, Ivan Torres ; ALVES, Domingos"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Volume: Lecture Notes in Computer Science, Berlin"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="DOI: "/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Paginas: 1005-1008"/>
+                </leaf>
+                <leaf>
+                    <attribute name="name" value="Numero "/>
+                </leaf>
+        </branch>
+        </branch>
+    </branch>
+        </branch>
+    </branch></tree>
